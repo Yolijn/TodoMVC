@@ -1,0 +1,47 @@
+{
+	"pages": ["home", "blog", "about"],
+	"blog": {
+		"posts": [
+			{
+				"id": "1",
+				"created": "1492168828",
+				"title": "say cheese",
+				"author": "yolijn",
+				"content": "Hi boys. I'm Tina. This is where I thrash. Everyone began to touch each other's butts. And I'm gonna read it to the whole school myself. Dad, you're the best pimp a girl could ever have. You're right. I'm a firestarter and a jinx. I'm going to destroy this whole family. I didn't know our county was bi. Good for us. Now my rash smells like bacon. But it doesn't itch anymore. I texted back a smiley face. She texted back some letters I don't understand. Dad, if you believe you're beautiful, you will be. I did. I need to find a boy with a turtle bite on his finger. My bra's chafing me. Hey, you don't want to mess with my sister. She'll wear down your self esteem over a period of years. YOU GORGEOUS IDIOT! There's someone behind the milk. Maybe it's the dairy fairy. My hearttttttttt. Follow me fellas...Lets go somewhere where the sixteen of us can be alone. How do you know a python ate it? Did it leave a note? A pants-off. For me? My hearttttttttt. It's not meant to be hilarious. It's supposed to be erotic. The hand wants what the hand wants. It's an erotic friend fiction story that I just wrote. I hope you like it, because you're all in it. It's called 'Buttloose.' I've been using the toilet like an idiot. Crap attack? Don't have one? It includes material that may not be suitable for all ages. Ok then, see you on our date! I'm gonna write the most erotic, graphic, freakiest friend fiction ever. I can't tell where your back ends and your butt begins."
+			},
+			{
+				"id": "2",
+				"created": "1492269636",
+				"title": "have your cake and eat it too",
+				"author": "yolijn",
+				"content": "Dear Diary: Tonight I'm sneaking off to the abandoned taffy factory to look for treasure. Also, if boys had uteruses, they'd be called duderuses. Hey, you don't want to mess with my sister. She'll wear down your self esteem over a period of years. Thank you zombie boyfriends. A pants-off. For me? My boob? Put it on a t-shirt, Jimmy Jr, I don't want to hear it. I thought I saw a baby bump. I'm a smart, strong, sensual woman.\nSuddenly, Tina Belcher appeared in the doorway. She knew what she had to do. My hearttttttttt. I'm torn. Dad raised me, but the shark gets me. Do you think horses get songs stuck in their heads? I didn't know our county was bi. Good for us. I'm gonna write the most erotic, graphic, freakiest friend fiction ever. It's a mating list for when the world ends. Can I get your email? It's a mating list for when the world ends. Can I get your email?\nI need both ears to hold up my glasses. This is where I thrash. I'm just not sure if I'll be any good on the grill with one free hand. Hi boys. I'm Tina. I need both ears to hold up my glasses. Hi boys. I'm Tina. Dad, you're the best pimp a girl could ever have. Dr. Yap is dreamy. When he's looking at my molars, it's like he's looking into my soul."
+			},
+			{
+				"id": "3",
+				"created": "1492368864",
+				"title": "third post",
+				"author": "yolijn",
+				"content": "They may look random but they're my phone number. Dad, I need you to drop everything and shave my legs. I'm out of control. I need to find a boy with a turtle bite on his finger. Hey, you don't want to mess with my sister. She'll wear down your self esteem over a period of years.\nIt's not meant to be hilarious. It's supposed to be erotic. I don't know. Eating lobster? It goes against everything we were taught to believe. Let's raise our glasses! YOU GORGEOUS IDIOT! How do you know a python ate it? Did it leave a note? If you need me, I'll be down here on the floor. Dying."
+			},
+			{
+				"id": "4",
+				"created": "1492457222",
+				"title": "another post",
+				"author": "yolijn",
+				"content": "There is one place I like to go. The boys' locker room. You can only see up to their ankles. I can't tell where your back ends and your butt begins. It's an erotic friend fiction story that I just wrote. I hope you like it, because you're all in it. It's called 'Buttloose.' She grabbed Jimmy Jr's butt and changed the world. Brr, it sure is cold in here. I wish some strong, chivalrous man would lend me his jacket, or his pants. Jimmy Jr. had a chance to ride the Tina truck, but now it's headed straight for Joshville. Toot-toot. I'm not spooked. What's the next thing after spooked? I'm that. Our toaster is also confused. It doesn't know where bagels go. It's an erotic friend fiction story that I just wrote. I hope you like it, because you're all in it. It's called 'Buttloose.\nYou had me at horses, but then you lost me at corpses. I want a dry erase board so I can write down all my private thoughts and then erase them immediately. I know how the shark thinks. It's confused. It doesn't know why we want to kill it. It just wants to go home.\nI've logged over 3,000 fantasy hours on my relationship with Jimmy Jr. You don't just throw that away. Sometimes with Jimmy Jr, I don't know what to say. But now I don't know what not to say and it's like okay guys, who can get to my mouth first? uhhhhhhhhhhhhhhhh"
+			}
+		]
+	},
+	"featured": {
+		"jsfiddle": "https://jsfiddle.net/user/yolijn/",
+		"github": "https://github.com/yolijn"
+	},
+	"about": {
+		"about": "bla bla bla",
+		"skills": ["HTML", "CSS", "JavaScript", "Sass", "ES2015", "Node.js"],
+		"contact": {
+			"email": "work@yolijn.com",
+			"twitter": "@yolijn"
+		}
+	}
+}

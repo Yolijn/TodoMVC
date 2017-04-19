@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Todo MVC</title>
+  <link rel="stylesheet" type="text/css" href="styles/styles.css">
+</head>
+<body>
+  <form id="todos" method="post">
+    <input type="text" name="create-todo" autofocus="autofocus" placeholder="What needs to be done?">
+    <table id="todo-items">
+      <!-- Items are generated in todo.js -->
+    </table>
+    <table>
+      <tr>
+        <th>Filter:</th>
+        <td><input type="radio" name="filter" value="all" id="show-all" checked="checked"><label for="show-all">All</label></td>
+        <td><input type="radio" name="filter" value="done" id="show-done"><label for="show-done">Done</label></td>
+        <td><input type="radio" name="filter" value="todo" id="show-todo"><label for="show-todo">Todo</label></td>
+      </tr>
+    </table>
+  </form>
+
+  <script src="script/todo.js"></script>
+</body>
+</html>

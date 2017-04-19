@@ -1,0 +1,24 @@
+{
+  "name": "fab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "sass-loader": "^6.0.3",
+    "susy": "^2.2.12",
+    "yarn": "^0.22.0"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.4.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-cli": "^1.2.2",
+    "gulp-data": "^1.2.1",
+    "gulp-filelog": "^0.4.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-print": "^2.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-swig": "^0.8.0",
+    "swig": "^1.4.2"
+  }
+}

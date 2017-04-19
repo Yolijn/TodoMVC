@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>TODO MVC</title>
+
+<style type="text/css">
+  .todo-item {
+    display: flex;
+    align-items: center;
+  }
+
+  .todo-item.completed {
+    color: grey;
+    text-decoration: line-through;
+  }
+</style>
+
+<form id="todo" method="post">
+  <input type="text" name="todo" placeholder="What needs to be done?" autofocus>
+
+  <ul id="todolist">
+
+  </ul>
+
+  <p>
+    <input type="radio" name="filter" value="done"> done
+    <input type="radio" name="filter" value="all"> all
+    <input type="radio" name="filter" value="active"> active
+  </p>
+</form>
+<script src="script/index.js"></script>
+
